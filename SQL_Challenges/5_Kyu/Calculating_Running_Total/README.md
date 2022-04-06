@@ -1,3 +1,5 @@
+# Calculating Running Total
+
 **Description**
 
 Given a posts table that contains a created_at timestamp column write a query that returns date (without time component), a number of posts for a given date and a running (cumulative) total number of posts up until a given date. The resulting set should be ordered chronologically by date.
